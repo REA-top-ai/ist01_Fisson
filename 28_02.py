@@ -1,14 +1,6 @@
 # Logs parser
 import json
 
-input_logs = [
-    "2025-02-01 10:15:33|INFO|user=anna action=login status=success ip=10.0.0.1",
-    "2025-02-01 10:17:10|ERROR|user=bob action=payment status=fail amount=120",
-    "2025-02-01 10:20:01|INFO|user=anna action=logout status=success",
-    "2025-02-01 10:22:45|WARNING|user=anna action=payment status=fail amount=300",
-    "2025-02-01 10:30:12|ERROR|user=tom action=login status=fail ip=10.0.0.5"
-]
-
 
 def record_to_dict(log: str) -> dict:
     parts = log.split("|")
@@ -70,5 +62,35 @@ def amount_for_failed(logs: list, **filters) -> tuple:
     _, summ, _ = aggregate_logs(logs, "amount", action="payment", status="fail")
     return summ
 
-print(amount_for_failed(input_logs))
+def print_records(records: list) -> None:
+    for record in records:
+        print(record)
+
+
+all_logs = [
+    "2025-02-01 10:15:33|INFO|user=anna action=login status=success ip=10.0.0.1",
+    "2025-02-01 10:17:10|ERROR|user=bob action=payment status=fail amount=120",
+    "2025-02-01 10:20:01|INFO|user=anna action=logout status=success",
+    "2025-02-01 10:22:45|WARNING|user=anna action=payment status=fail amount=300",
+    "2025-02-01 10:30:12|ERROR|user=tom action=login status=fail ip=10.0.0.5"
+]
+
+print("---- FAIL ONLY ----")
+print_records(filter_logs(all_logs, status="fail"))
+print("")
+
+print("---- ONLY ERRORS ----")
+print_records(filter_logs(all_logs, level="ERROR"))
+print("")
+
+print("---- ONLY anna ----")
+print_records(filter_logs(all_logs, user="anna"))
+print("")
+
+print("---- COUNT BY LEVEL ----")
+count, amount, aggregate = aggregate_by_level(all_logs)
+print(f"all records: {count}, amount: {amount}")
+for key, val in aggregate.items():
+    print(f"{key}: {val}")
+
 
