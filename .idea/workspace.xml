@@ -4,14 +4,94 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dedca9f1-7ccb-429c-a65a-25bf8be8b99d" name="Changes" comment="Initial commit for 28_02">
-      <change afterPath="$PROJECT_DIR$/07_03 (1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_03(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_03(3.1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_03(3.2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_03(3.3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_03(3.4).py" afterDir="false" />
+    <list default="true" id="dedca9f1-7ccb-429c-a65a-25bf8be8b99d" name="Changes" comment="Initial commit for 07_03">
+      <change afterPath="$PROJECT_DIR$/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procedure_client.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 файл 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13 файл 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.1.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 1.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3 файл1.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл1.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/дз№1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз№1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +117,12 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="796e4761-796f-4b72-af6a-54c0773b3f0f" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/REA-top-ai/ist01_Fisson.git",
-    "accountId": "796e4761-796f-4b72-af6a-54c0773b3f0f"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:/REA-top-ai/ist01_Fisson.git&quot;,
+    &quot;accountId&quot;: &quot;796e4761-796f-4b72-af6a-54c0773b3f0f&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -54,108 +134,121 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.07_03 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_03(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_03(3.1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_03(3.2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_03(3.3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13 файл 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.28_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.API.executor&quot;: &quot;Run&quot;,
-    &quot;Python.logs_parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 1.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3 файл 1.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3 файл 1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3 файл 1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3 файл 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3 файл 1ю2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3 файл1.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз 8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.дз№1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PycharmProjects/ist01_Fisson&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.python.group.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.07_03 (1).executor": "Run",
+    "Python.07_03(2).executor": "Run",
+    "Python.07_03(3.1).executor": "Run",
+    "Python.07_03(3.2).executor": "Run",
+    "Python.07_03(3.3).executor": "Run",
+    "Python.11.2.executor": "Run",
+    "Python.11.3.executor": "Run",
+    "Python.11.4.executor": "Run",
+    "Python.11.5.executor": "Run",
+    "Python.11.6.executor": "Run",
+    "Python.12.1.executor": "Run",
+    "Python.12.2.executor": "Run",
+    "Python.12.3.executor": "Run",
+    "Python.12.4.executor": "Run",
+    "Python.12.5.executor": "Run",
+    "Python.12.6.executor": "Run",
+    "Python.13 файл 1.executor": "Run",
+    "Python.13.2.executor": "Run",
+    "Python.13.3.executor": "Run",
+    "Python.13.4.executor": "Run",
+    "Python.13.5.executor": "Run",
+    "Python.13.6.executor": "Run",
+    "Python.13.7.executor": "Run",
+    "Python.14.2.executor": "Run",
+    "Python.14.3.executor": "Run",
+    "Python.14.4.executor": "Run",
+    "Python.14.5.executor": "Run",
+    "Python.14.6.executor": "Run",
+    "Python.14.7.executor": "Run",
+    "Python.14.8.executor": "Run",
+    "Python.28_02.executor": "Run",
+    "Python.3.5.executor": "Run",
+    "Python.3.6.executor": "Run",
+    "Python.3.7.executor": "Run",
+    "Python.3.8.executor": "Run",
+    "Python.4.1.executor": "Run",
+    "Python.4.2.executor": "Run",
+    "Python.4.3.executor": "Run",
+    "Python.4.4.executor": "Run",
+    "Python.4.5.executor": "Run",
+    "Python.6.1.2.executor": "Run",
+    "Python.6.1.3.executor": "Run",
+    "Python.6.1.5.executor": "Run",
+    "Python.6.1.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.8.1.executor": "Run",
+    "Python.8.2.executor": "Run",
+    "Python.8.3.executor": "Run",
+    "Python.8.4.executor": "Run",
+    "Python.8.5.executor": "Run",
+    "Python.8.6.executor": "Run",
+    "Python.9.2.executor": "Run",
+    "Python.9.3.executor": "Run",
+    "Python.9.4.executor": "Run",
+    "Python.9.5.executor": "Run",
+    "Python.9.6.executor": "Run",
+    "Python.9.7.executor": "Run",
+    "Python.9.executor": "Run",
+    "Python.API.executor": "Run",
+    "Python.auth.executor": "Run",
+    "Python.auth_test.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.client_classes.executor": "Run",
+    "Python.http.executor": "Run",
+    "Python.logs_parser.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.procedure_client.executor": "Run",
+    "Python.дз 1.1.executor": "Run",
+    "Python.дз 11.executor": "Run",
+    "Python.дз 12.executor": "Run",
+    "Python.дз 13.executor": "Run",
+    "Python.дз 14.executor": "Run",
+    "Python.дз 2.executor": "Run",
+    "Python.дз 3 файл 1.3.executor": "Run",
+    "Python.дз 3 файл 1.4.executor": "Run",
+    "Python.дз 3 файл 1.5.executor": "Run",
+    "Python.дз 3 файл 1.executor": "Run",
+    "Python.дз 3 файл 1ю2.executor": "Run",
+    "Python.дз 3 файл1.6.executor": "Run",
+    "Python.дз 3.1.executor": "Run",
+    "Python.дз 3.2.executor": "Run",
+    "Python.дз 3.3.executor": "Run",
+    "Python.дз 3.4.executor": "Run",
+    "Python.дз 3.5.executor": "Run",
+    "Python.дз 3.executor": "Run",
+    "Python.дз 4.1.executor": "Run",
+    "Python.дз 4.executor": "Run",
+    "Python.дз 5.executor": "Run",
+    "Python.дз 6.1.executor": "Run",
+    "Python.дз 6.executor": "Run",
+    "Python.дз 8.executor": "Run",
+    "Python.дз№1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/PycharmProjects/ist01_Fisson",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.python.group.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.3.7">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\ist01_Fisson\metodichka" />
+      <recent name="C:\Projects\ist01_Fisson\07_03" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="13 файл 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -171,7 +264,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13 файл 1.py" />
+      <option name="SCRIPT_NAME" value="C:\Projects\ist01_Fisson\metodichka\13 файл 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +288,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13.6.py" />
+      <option name="SCRIPT_NAME" value="C:\Projects\ist01_Fisson\metodichka\13.6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,7 +338,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7.py" />
+      <option name="SCRIPT_NAME" value="C:\Projects\ist01_Fisson\metodichka\3.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +404,8 @@
       <workItem from="1772561739780" duration="40000" />
       <workItem from="1772561804447" duration="199000" />
       <workItem from="1772562077302" duration="5070000" />
-      <workItem from="1773906706116" duration="666000" />
+      <workItem from="1773906706116" duration="3629000" />
+      <workItem from="1774678197332" duration="12034000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -329,32 +423,66 @@
       <option name="project" value="LOCAL" />
       <updated>1772567593244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit for 07_03">
+      <option name="closed" value="true" />
+      <created>1773907909186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773907909186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit for 28_02" />
     <MESSAGE value="New commit" />
     <MESSAGE value="Test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
+    <MESSAGE value="Initial commit for 07_03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for 07_03" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$13_6.coverage" NAME="13.6 Coverage Results" MODIFIED="1771171400757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_4.coverage" NAME="14.4 Coverage Results" MODIFIED="1771173429600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$28_02.coverage" NAME="28_02 Coverage Results" MODIFIED="1773335964112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13_3.coverage" NAME="13.3 Coverage Results" MODIFIED="1771170139370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$http.coverage" NAME="http Coverage Results" MODIFIED="1775244349932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_3_3_.coverage" NAME="07_03(3.3) Coverage Results" MODIFIED="1773769328625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1773335051451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3_2.coverage" NAME="дз 3.2 Coverage Results" MODIFIED="1771174663445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$auth.coverage" NAME="auth Coverage Results" MODIFIED="1775244560664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_7.coverage" NAME="14.7 Coverage Results" MODIFIED="1771173975082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3__12.coverage" NAME="дз 3 файл 1ю2 Coverage Results" MODIFIED="1771175498643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_2_.coverage" NAME="07_03(2) Coverage Results" MODIFIED="1773768404800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3__1_4.coverage" NAME="дз 3 файл 1.4 Coverage Results" MODIFIED="1771175631860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$3_8.coverage" NAME="3.8 Coverage Results" MODIFIED="1771175343913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$client_classes.coverage" NAME="client_classes Coverage Results" MODIFIED="1774680265380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3__1_5.coverage" NAME="дз 3 файл 1.5 Coverage Results" MODIFIED="1771176187126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_6.coverage" NAME="14.6 Coverage Results" MODIFIED="1771173872144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3_5.coverage" NAME="дз 3.5 Coverage Results" MODIFIED="1771175101624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -366,6 +494,7 @@
     <SUITE FILE_PATH="coverage/PythonProject$_13.coverage" NAME="дз 13 Coverage Results" MODIFIED="1771169392826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13__1.coverage" NAME="13 файл 1 Coverage Results" MODIFIED="1771172519596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$api_methods.coverage" NAME="api_methods Coverage Results" MODIFIED="1773335141956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API APP/api_proxy" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$auth_test.coverage" NAME="auth_test Coverage Results" MODIFIED="1774686941051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_8.coverage" NAME="14.8 Coverage Results" MODIFIED="1771174064711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13_5.coverage" NAME="13.5 Coverage Results" MODIFIED="1771170710073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13_2.coverage" NAME="13.2 Coverage Results" MODIFIED="1771169816966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -373,8 +502,11 @@
     <SUITE FILE_PATH="coverage/PythonProject$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1771176530822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$12_6.coverage" NAME="12.6 Coverage Results" MODIFIED="1771169217511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$07_03__1_.coverage" NAME="07_03 (1) Coverage Results" MODIFIED="1773767878416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$main.coverage" NAME="main Coverage Results" MODIFIED="1774678885402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3_1_6.coverage" NAME="дз 3 файл1.6 Coverage Results" MODIFIED="1771176300895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$procedure_client.coverage" NAME="procedure_client Coverage Results" MODIFIED="1774680114562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13_4.coverage" NAME="13.4 Coverage Results" MODIFIED="1771170534708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$class.coverage" NAME="class Coverage Results" MODIFIED="1775237935705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3__1_3.coverage" NAME="дз 3 файл 1.3 Coverage Results" MODIFIED="1771175558248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_5.coverage" NAME="14.5 Coverage Results" MODIFIED="1771173720481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_3_2_.coverage" NAME="07_03(3.2) Coverage Results" MODIFIED="1773769144857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
