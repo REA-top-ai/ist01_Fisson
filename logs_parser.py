@@ -6,10 +6,10 @@ logs = [
     "2025-02-01 10:30:12|ERROR|user=tom action=login status=fail ip=10.0.0.5"
 ]
 
-
+#метод main было бы неплохо добавить
 def record_to_dict(log: str) -> dict:
     parts = log.split("|")
-    log_dict = {"date": parts[0], "level": parts[1]}
+    log_dict = {"date": parts[0], "level": parts[1]} #индексы хорошо бы проверять
     message = parts[2].split(" ")
     for msg in message:
         keyval = msg.split("=")
