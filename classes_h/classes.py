@@ -22,6 +22,7 @@ class Student(Person):
     def add_grades(self, grade):
         if 0 <= grade <= 100:
             self.__grades.append(grade)
+            return None
         else:
             return "Ошибка: баллы студентов должны быть в диапозоне от 0 до 100"
 
@@ -54,5 +55,5 @@ class Teacher(Person):
 p1 = Person('Иван', 23)
 print(p1.get_role_info())
 
-s1 = Student('IST01')
-print(s1)
+s1 = Student('Семён', 18, 'IST01')
+print(s1.get_name())

@@ -5,93 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dedca9f1-7ccb-429c-a65a-25bf8be8b99d" name="Changes" comment="Initial commit for 07_03">
-      <change afterPath="$PROJECT_DIR$/auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auth_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client_classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/procedure_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API APP/api_proxy/api_analytics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API APP/api_proxy/api_mistral.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API APP/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_h/client_classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classes_h/decor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/11.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/12.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 файл 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13 файл 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/13.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/14.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/14.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/3.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/4.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/6.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/8.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.9.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 1.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 1.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3 файл 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3 файл1.6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3 файл1.6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 4.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 6.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз№1.py" beforeDir="false" afterPath="$PROJECT_DIR$/metodichka/дз№1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/28_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/28_02/28_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API APP/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/API APP/analytics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API APP/api_proxy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/API APP/api_proxy/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_init_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/auth_h/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/auth_h/auth_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_h/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/classes_h/classes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_classes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/logs_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procedure_client.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,10 +127,14 @@
     "Python.9.7.executor": "Run",
     "Python.9.executor": "Run",
     "Python.API.executor": "Run",
+    "Python.analytics.executor": "Run",
+    "Python.api_analytics.executor": "Run",
     "Python.auth.executor": "Run",
     "Python.auth_test.executor": "Run",
     "Python.class.executor": "Run",
+    "Python.classes.executor": "Run",
     "Python.client_classes.executor": "Run",
+    "Python.decor.executor": "Run",
     "Python.http.executor": "Run",
     "Python.logs_parser.executor": "Run",
     "Python.main.executor": "Run",
@@ -244,59 +179,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\ist01_Fisson\old" />
+      <recent name="C:\Projects\ist01_Fisson\28_02" />
+      <recent name="C:\Projects\ist01_Fisson\auth_h" />
+      <recent name="C:\Projects\ist01_Fisson\classes_h" />
       <recent name="C:\Projects\ist01_Fisson\metodichka" />
-      <recent name="C:\Projects\ist01_Fisson\07_03" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="13 файл 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Projects\ist01_Fisson\metodichka\13 файл 1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Projects\ist01_Fisson\metodichka\13.6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.classes">
     <configuration name="28_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -313,7 +203,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/28_02.py" />
+      <option name="SCRIPT_NAME" value="C:\Projects\ist01_Fisson\28_02\28_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -347,6 +237,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ist01_Fisson" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/classes_h" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_h/classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="logs_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -362,7 +276,31 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logs_parser.py" />
+      <option name="SCRIPT_NAME" value="C:\Projects\ist01_Fisson\old\logs_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ist01_Fisson" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/API APP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/API APP/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.28_02" />
+        <item itemvalue="Python.classes" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.3.7" />
+        <item itemvalue="Python.28_02" />
         <item itemvalue="Python.logs_parser" />
-        <item itemvalue="Python.13 файл 1" />
-        <item itemvalue="Python.13.6" />
       </list>
     </recent_temporary>
   </component>
@@ -406,6 +344,8 @@
       <workItem from="1772562077302" duration="5070000" />
       <workItem from="1773906706116" duration="3629000" />
       <workItem from="1774678197332" duration="12034000" />
+      <workItem from="1776345318616" duration="6788000" />
+      <workItem from="1777054298000" duration="8719000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -460,7 +400,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
+          <url>file://$PROJECT_DIR$/old/main.py</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -470,48 +410,52 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$13_6.coverage" NAME="13.6 Coverage Results" MODIFIED="1771171400757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_4.coverage" NAME="14.4 Coverage Results" MODIFIED="1771173429600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$28_02.coverage" NAME="28_02 Coverage Results" MODIFIED="1773335964112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13_3.coverage" NAME="13.3 Coverage Results" MODIFIED="1771170139370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$http.coverage" NAME="http Coverage Results" MODIFIED="1775244349932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_3_3_.coverage" NAME="07_03(3.3) Coverage Results" MODIFIED="1773769328625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$classes.coverage" NAME="classes Coverage Results" MODIFIED="1777229908493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/classes_h" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$3_6.coverage" NAME="3.6 Coverage Results" MODIFIED="1773335051451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$_3_2.coverage" NAME="дз 3.2 Coverage Results" MODIFIED="1771174663445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$auth.coverage" NAME="auth Coverage Results" MODIFIED="1775244560664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_7.coverage" NAME="14.7 Coverage Results" MODIFIED="1771173975082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3__12.coverage" NAME="дз 3 файл 1ю2 Coverage Results" MODIFIED="1771175498643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_2_.coverage" NAME="07_03(2) Coverage Results" MODIFIED="1773768404800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$_3__1_4.coverage" NAME="дз 3 файл 1.4 Coverage Results" MODIFIED="1771175631860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$3_8.coverage" NAME="3.8 Coverage Results" MODIFIED="1771175343913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$client_classes.coverage" NAME="client_classes Coverage Results" MODIFIED="1774680265380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3__1_5.coverage" NAME="дз 3 файл 1.5 Coverage Results" MODIFIED="1771176187126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$14_6.coverage" NAME="14.6 Coverage Results" MODIFIED="1771173872144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$_3_5.coverage" NAME="дз 3.5 Coverage Results" MODIFIED="1771175101624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$4_4.coverage" NAME="4.4 Coverage Results" MODIFIED="1771169182873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1773335101747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_14.coverage" NAME="дз 14 Coverage Results" MODIFIED="1771172527497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_3_1_.coverage" NAME="07_03(3.1) Coverage Results" MODIFIED="1773768901339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$3_7.coverage" NAME="3.7 Coverage Results" MODIFIED="1773335938249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_13.coverage" NAME="дз 13 Coverage Results" MODIFIED="1771169392826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$13_5.coverage" NAME="13.5 Coverage Results" MODIFIED="1771170710073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1771176530822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$07_03__1_.coverage" NAME="07_03 (1) Coverage Results" MODIFIED="1773767878416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$_3_1_6.coverage" NAME="дз 3 файл1.6 Coverage Results" MODIFIED="1771176300895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$procedure_client.coverage" NAME="procedure_client Coverage Results" MODIFIED="1774680114562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$13_4.coverage" NAME="13.4 Coverage Results" MODIFIED="1771170534708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$_3__1_3.coverage" NAME="дз 3 файл 1.3 Coverage Results" MODIFIED="1771175558248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$14_5.coverage" NAME="14.5 Coverage Results" MODIFIED="1771173720481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_3_2_.coverage" NAME="07_03(3.2) Coverage Results" MODIFIED="1773769144857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$_3_1.coverage" NAME="дз 3.1 Coverage Results" MODIFIED="1771174494888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$28_02.coverage" NAME="28_02 Coverage Results" MODIFIED="1773335964112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$http.coverage" NAME="http Coverage Results" MODIFIED="1775244349932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_3_3_.coverage" NAME="07_03(3.3) Coverage Results" MODIFIED="1773769328625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$_3_2.coverage" NAME="дз 3.2 Coverage Results" MODIFIED="1771174663445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$auth.coverage" NAME="auth Coverage Results" MODIFIED="1775244560664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$_3__1_4.coverage" NAME="дз 3 файл 1.4 Coverage Results" MODIFIED="1771175631860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$client_classes.coverage" NAME="client_classes Coverage Results" MODIFIED="1777056727480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$14_6.coverage" NAME="14.6 Coverage Results" MODIFIED="1771173872144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$_3_5.coverage" NAME="дз 3.5 Coverage Results" MODIFIED="1771175101624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1773335101747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$3_7.coverage" NAME="3.7 Coverage Results" MODIFIED="1777056613226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$analytics.coverage" NAME="analytics Coverage Results" MODIFIED="1776595278279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API APP" />
     <SUITE FILE_PATH="coverage/PythonProject$13__1.coverage" NAME="13 файл 1 Coverage Results" MODIFIED="1771172519596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$api_methods.coverage" NAME="api_methods Coverage Results" MODIFIED="1773335141956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API APP/api_proxy" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$auth_test.coverage" NAME="auth_test Coverage Results" MODIFIED="1774686941051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_8.coverage" NAME="14.8 Coverage Results" MODIFIED="1771174064711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$13_5.coverage" NAME="13.5 Coverage Results" MODIFIED="1771170710073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13_2.coverage" NAME="13.2 Coverage Results" MODIFIED="1771169816966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$14_3.coverage" NAME="14.3 Coverage Results" MODIFIED="1771173189182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$4_3.coverage" NAME="4.3 Coverage Results" MODIFIED="1771176530822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$12_6.coverage" NAME="12.6 Coverage Results" MODIFIED="1771169217511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$07_03__1_.coverage" NAME="07_03 (1) Coverage Results" MODIFIED="1773767878416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$main.coverage" NAME="main Coverage Results" MODIFIED="1774678885402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$_3_1_6.coverage" NAME="дз 3 файл1.6 Coverage Results" MODIFIED="1771176300895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$procedure_client.coverage" NAME="procedure_client Coverage Results" MODIFIED="1774680114562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$13_4.coverage" NAME="13.4 Coverage Results" MODIFIED="1771170534708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$main.coverage" NAME="main Coverage Results" MODIFIED="1777228767538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API APP" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$class.coverage" NAME="class Coverage Results" MODIFIED="1775237935705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$_3__1_3.coverage" NAME="дз 3 файл 1.3 Coverage Results" MODIFIED="1771175558248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$14_5.coverage" NAME="14.5 Coverage Results" MODIFIED="1771173720481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ist01_Fisson$07_03_3_2_.coverage" NAME="07_03(3.2) Coverage Results" MODIFIED="1773769144857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$decor.coverage" NAME="decor Coverage Results" MODIFIED="1777056618680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ist01_Fisson$api_analytics.coverage" NAME="api_analytics Coverage Results" MODIFIED="1777057410829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API APP/api_proxy" />
     <SUITE FILE_PATH="coverage/PythonProject$14_2.coverage" NAME="14.2 Coverage Results" MODIFIED="1771172703923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$_3_1.coverage" NAME="дз 3.1 Coverage Results" MODIFIED="1771174494888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$_3__1.coverage" NAME="дз 3 файл 1 Coverage Results" MODIFIED="1771175430351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ist01_Fisson$logs_parser.coverage" NAME="logs_parser Coverage Results" MODIFIED="1773335194704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$13_7.coverage" NAME="13.7 Coverage Results" MODIFIED="1771171414869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
