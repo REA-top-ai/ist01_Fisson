@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>🎬 Подбор фильма</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: Arial, sans-serif; background: #1a1a2e; color: #eee; max-width: 640px; margin: 0 auto; padding: 40px 20px; }
+    .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px; }
+    h1 { color: #e94560; font-size: 24px; }
+    .user-info { font-size: 14px; color: #aaa; display: flex; align-items: center; gap: 12px; }
+    .user-info span { color: #eee; }
+    .logout { color: #e94560; text-decoration: none; font-size: 13px; }
+    .logout:hover { text-decoration: underline; }
+    form.search { display: flex; gap: 10px; margin-bottom: 24px; }
+    input[type=text] { flex: 1; padding: 12px; border-radius: 8px; border: 1px solid #2a2a4a; background: #16213e; color: #eee; font-size: 15px; }
+    input[type=text]:focus { outline: none; border-color: #e94560; }
+    button { padding: 12px 24px; background: #e94560; color: white; border: none; border-radius: 8px; font-size: 15px; cursor: pointer; }
+    button:hover { background: #c73652; }
+    .card { background: #16213e; border-radius: 12px; padding: 24px; margin-bottom: 24px; }
+    .card h2 { color: #e94560; margin-bottom: 16px; }
+    .row { margin: 8px 0; line-height: 1.6; }
+    .label { color: #aaa; font-size: 13px; }
+    .saved { margin-top: 12px; font-size: 13px; color: #4caf50; }
+    .history h3 { color: #aaa; font-size: 14px; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px; }
+    .history-item { background: #0f0f23; border-radius: 8px; padding: 12px 16px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center; }
+    .history-item .title { font-size: 15px; }
+    .history-item .meta { font-size: 12px; color: #aaa; }
+    .empty { color: #555; font-size: 14px; text-align: center; padding: 20px; }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>🎬 Подбор фильма</h1>
+    <div class="user-info">
+      Привет, <span>{{ username }}</span>
+      <a href="/logout" class="logout">Выйти</a>
+    </div>
+  </div>
+
+  <form class="search" method="POST">
+    <input type="text" name="query" placeholder="Например: хочу что-то страшное..." value="{{ user_query }}">
+    <button type="submit">Найти</button>
+  </form>
+
+  {% if movie %}
+  <div class="card">
+    <h2>{{ movie.Name }}</h2>
+    <div class="row"><span class="label">Жанр: </span>{{ genre_label }}</div>
+    <div class="row"><span class="label">Рейтинг: </span>{{ movie.rating }} / 10</div>
+    <div class="row"><span class="label">Описание: </span>{{ movie.wTeaser }}</div>
+    {% if saved_id %}
+    <div class="saved">💾 Сохранено в базу данных — запись #{{ saved_id }}</div>
+    {% endif %}
+  </div>
+  {% endif %}
+
+  <div class="history">
+    <h3>История поиска</h3>
+    {% if history %}
+      {% for m in history|reverse %}
+      <div class="history-item">
+        <span class="title">{{ m.title }}</span>
+        <span class="meta">{{ m.genre }} · {{ m.rating }} ⭐</span>
+      </div>
+      {% endfor %}
+    {% else %}
+      <div class="empty">Вы ещё ничего не искали</div>
+    {% endif %}
+  </div>
+
+</body>
+</html>
